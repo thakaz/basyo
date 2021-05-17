@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "95406107006",
+    "project_id": "basyo-d43f4",
+    "storage_bucket": "basyo-d43f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95406107006:android:443197a295ff8e25756b2f",
+        "android_client_info": {
+          "package_name": "com.thakaz.basyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95406107006-2u3jj5gji2dbeqi27idpnbmemh8l38ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOeL9AeRtZwe-DA3qffqpT0c5425Oc0GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95406107006-2u3jj5gji2dbeqi27idpnbmemh8l38ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
